@@ -1,26 +1,12 @@
 # 💫 About Me
 
-My full name is **Sabbavarapu Keerthana**. I'm a 2nd Year B.Tech Biotechnology student at KL University, passionate about **Web Development, Data Science, Machine Learning, and Biotechnology**.
+## 👋 Hi, I am Sabbavarapu Keerthana!
+
+I'm a 2nd Year B.Tech Biotechnology student at KL University, passionate about **Web Development, Data Science, Machine Learning, and Biotechnology**.
 
 **Pronouns:** She / Her
 
-# 👋 Sabbavarapu Keerthana
-
-### 🎓 2nd Year B.Tech Biotechnology Student | 💻 Web Development Enthusiast | ⚛️ React & JavaScript Learner
-
-I'm a 2nd year B.Tech Biotechnology student at KL University, interested in technology, web development, data science, and biotechnology.
-
-I enjoy learning new technologies, building practical projects, and creating simple, user-friendly applications. I'm currently exploring **React.js, JavaScript, Full Stack Web Development, Machine Learning, and Data Science**.
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/keerthana-10088" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
+I enjoy learning new technologies, building practical projects, and creating simple, user-friendly applications.
 
 ---
 
@@ -131,6 +117,16 @@ I enjoy learning new technologies, building practical projects, and creating sim
 I'm continuously working on improving my programming skills and building projects that combine technology with my biotechnology background.
 
 My goal is to develop strong technical skills and explore the connection between **biotechnology and modern technology**.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/keerthana-10088" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 
 ---
 
