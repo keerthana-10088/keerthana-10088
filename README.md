@@ -1,8 +1,10 @@
 # 💫 About Me
 
-My full name is **Keerthana**. I'm a 2nd Year B.Tech Biotechnology student at KL University, passionate about **Web Development, Data Science, Machine Learning, and Biotechnology**.
+My full name is **Sabbavarapu Keerthana**. I'm a 2nd Year B.Tech Biotechnology student at KL University, passionate about **Web Development, Data Science, Machine Learning, and Biotechnology**.
 
-# Keerthana
+**Pronouns:** She / Her
+
+# 👋 Sabbavarapu Keerthana
 
 ### 🎓 2nd Year B.Tech Biotechnology Student | 💻 Web Development Enthusiast | ⚛️ React & JavaScript Learner
 
@@ -136,7 +138,7 @@ My goal is to develop strong technical skills and explore the connection between
 
 📧 **Email:** 2500010088@kluniversity.in
 
-🔗 **GitHub:** [Keerthana's GitHub Profile](https://github.com/keerthana-10088)
+🔗 **GitHub:** [Sabbavarapu Keerthana](https://github.com/keerthana-10088)
 
 ---
 
