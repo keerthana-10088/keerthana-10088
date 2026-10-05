@@ -91,11 +91,49 @@ I enjoy learning new technologies, building practical projects, and creating sim
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=keerthana-10088&show_icons=true&theme=tokyonight" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthana-10088&theme=tokyonight" width="48%">
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana-10088&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/keerthana-10088/keerthana-10088/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
 ## 🎯 Goals
 
 > "Keep learning, keep building, and keep improving."
 
 My goal is to develop strong technical skills and explore the connection between biotechnology and modern technology.
+
+I want to build projects that combine technology, biotechnology, and data-driven solutions.
+
+---
+
+## 📫 Contact Me
+
+📧 **Email:** 2500010088@kluniversity.in
+
+💻 **GitHub:**  
+<a href="https://github.com/keerthana-10088" target="_blank">
+GitHub Profile
+</a>
 
 ---
 
