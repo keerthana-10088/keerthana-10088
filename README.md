@@ -1,19 +1,21 @@
-# 2500010088
-B.Tech Biotechnology Student | Web Development Enthusiast | React &amp; JavaScript Learner
-# Hi 👋, I'm Keerthana
+# 💫 About Me
 
-### 🎓 2nd Year B.Tech Biotechnology Student at KL University | 💻 Web Development Enthusiast
+My full name is **Keerthana**. I'm a 2nd Year B.Tech Biotechnology student at KL University, passionate about **Web Development, Data Science, Machine Learning, and Biotechnology**.
+
+# Keerthana
+
+### 🎓 2nd Year B.Tech Biotechnology Student | 💻 Web Development Enthusiast | ⚛️ React & JavaScript Learner
 
 I'm a 2nd year B.Tech Biotechnology student at KL University, interested in technology, web development, data science, and biotechnology.
 
-I enjoy learning new technologies, building practical projects, and creating simple, user-friendly applications. I'm currently exploring React.js, JavaScript, Full Stack Web Development, Machine Learning, and Data Science.
+I enjoy learning new technologies, building practical projects, and creating simple, user-friendly applications. I'm currently exploring **React.js, JavaScript, Full Stack Web Development, Machine Learning, and Data Science**.
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/" target="_blank">
+<a href="https://github.com/keerthana-10088" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
@@ -51,12 +53,12 @@ I enjoy learning new technologies, building practical projects, and creating sim
 
 ## 🧬 Biotechnology & Technical Interests
 
-- Biotechnology
-- Bioinformatics
-- Data Science
-- Machine Learning
-- Web Development
-- Healthcare Technology
+- 🧬 Biotechnology
+- 🧪 Bioinformatics
+- 📊 Data Science
+- 🤖 Machine Learning
+- 💻 Web Development
+- 🏥 Healthcare Technology
 
 ---
 
@@ -106,8 +108,8 @@ I enjoy learning new technologies, building practical projects, and creating sim
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=tokyonight" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?theme=tokyonight" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=keerthana-10088&show_icons=true&theme=tokyonight" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthana-10088&theme=tokyonight" width="48%">
 </p>
 
 ---
@@ -115,25 +117,27 @@ I enjoy learning new technologies, building practical projects, and creating sim
 ## 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana-10088&layout=compact&theme=tokyonight">
 </p>
 
 ---
 
 ## 💡 Goals
 
-> "Keep learning, keep building, and keep improving."
+> **"Keep learning, keep building, and keep improving."**
 
 I'm continuously working on improving my programming skills and building projects that combine technology with my biotechnology background.
 
-My goal is to develop strong technical skills and explore the connection between biotechnology and modern technology.
+My goal is to develop strong technical skills and explore the connection between **biotechnology and modern technology**.
 
 ---
 
 ## 📫 Contact
 
-**GitHub:** My GitHub Profile
+📧 **Email:** 2500010088@kluniversity.in
+
+🔗 **GitHub:** [Keerthana's GitHub Profile](https://github.com/keerthana-10088)
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
